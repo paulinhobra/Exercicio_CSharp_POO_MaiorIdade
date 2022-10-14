@@ -1,0 +1,15 @@
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\bin\Debug\net6.0\Exercicios CSharp POO.exe
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\bin\Debug\net6.0\Exercicios CSharp POO.deps.json
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\bin\Debug\net6.0\Exercicios CSharp POO.runtimeconfig.json
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\bin\Debug\net6.0\Exercicios CSharp POO.dll
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\bin\Debug\net6.0\Exercicios CSharp POO.pdb
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.csproj.AssemblyReference.cache
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.dll
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\refint\Exercicios CSharp POO.dll
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.pdb
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\Exercicios CSharp POO.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Exercicios CSharp POO\obj\Debug\net6.0\ref\Exercicios CSharp POO.dll
